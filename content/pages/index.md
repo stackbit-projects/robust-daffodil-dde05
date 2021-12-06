@@ -140,7 +140,7 @@ sections:
     styles:
       self:
         width: wide
-        height: auto
+        height: screen
         margin:
           - mt-0
           - mb-0
