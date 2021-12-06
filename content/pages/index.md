@@ -54,7 +54,8 @@ sections:
     colors: colors-f
     title: Where did everyone go?
     text: >
-      Learn how top tech companies have learned working remote using our product.
+      Learn how top tech companies have learned working remote using our
+      product.
     actions:
       - type: Button
         label: Sign Up
@@ -133,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -144,7 +145,7 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-36
+          - pt-32
           - pb-24
           - pl-4
           - pr-4
