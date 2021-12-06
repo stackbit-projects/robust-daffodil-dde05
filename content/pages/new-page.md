@@ -4,7 +4,8 @@ sections:
   - type: HeroSection
     colors: colors-f
     title: We’re growing fast
-    text: You should join us.
+    text: |
+      This is a new page that I am trying out.
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
