@@ -493,7 +493,7 @@ sections:
         - name: email
           placeholder: Your email
           isRequired: true
-          width: 1/2
+          width: full
           type: EmailFormControl
       submitLabel: Sign Up
     styles:
