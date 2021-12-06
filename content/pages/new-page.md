@@ -38,6 +38,16 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
   - type: QuoteSection
     colors: colors-a
     quote: >-
