@@ -139,7 +139,7 @@ sections:
     enableHover: false
     styles:
       self:
-        width: full
+        width: wide
         height: auto
         margin:
           - mt-0
